@@ -32,6 +32,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4d81bb35-f81c-438c-aae3-f21d3ba03ca1"
+      }
+    },
+    "owner": "debasish.earth"
   }
 }
